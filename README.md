@@ -126,33 +126,9 @@ Este modelo está pensado como:
 
 | Cantidad | Pieza |
 |---|---|
-| — | Cojinetes 608RS |
+| 2 | Cojinetes 608RS |
 | 10 | Tornillos M3x10mm |
 | 8 | Tornillos M3x6mm |
-
----
-
-## 📁 Estructura del repositorio
-
-```
-gokart-rc/
-├── README.md
-├── firmware/
-│   └── GamePad_Digital_ESP32.ino
-├── stl/
-├── fusion360/
-├── imagenes/
-└── docs/
-```
-
----
-
-## 🚀 Próximos pasos
-
-- [ ] Control por Bluetooth / gamepad físico
-- [ ] Indicador de batería en la interfaz web
-- [ ] Integración de sensores/cámara
-- [ ] Modo autónomo
 
 ---
 
